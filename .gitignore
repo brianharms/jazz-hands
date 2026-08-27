@@ -1,0 +1,6 @@
+SESSION_LOG.md
+samples/
+__pycache__/
+.venv/
+.DS_Store
+*.log
